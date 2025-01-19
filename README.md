@@ -11,6 +11,7 @@ For a live demonstration of House Price Prediction, watch the following video:
 <h2>Try the App</h2>
 Explore the House Price Prediction yourself! This app is deployed on Streamlit. Click the link below to get started: LINK
 
+<p>
 Note: When running the application for the first time, it may take some time as it creates necessary files and initializes the environment.
-
+</p>
 
